@@ -298,10 +298,9 @@ header ul li a:hover {
 	height: auto;
 	text-align: left;
 	color: #333;
-	padding-left: 10%;
+	padding-left: 15%;
 	padding-top: 100px;
 	float: left;
-	/*background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);*/
 }
 .work_ds a:hover{
 	text-decoration: line-through;
@@ -334,19 +333,9 @@ header ul li a:hover {
       background-position:center center;
       background-repeat:no-repeat;
 } 
-.about_1{
-	float: left;
-	padding-left: 10%;
-	width: 37%;
-}
-.work_video{
-    padding-right: 11%;
-    text-align: right;
-    transform:translateY(-200px);
-}
+
 .work_music{
 	height: auto;
-	transform:translateY(-70px);
 	margin-left: 15%;
 	margin-right: 13%;
 }
@@ -356,7 +345,6 @@ header ul li a:hover {
     float: left;
     position: relative;
     top: 50%;
-    transform: translateY(-25%);
 }
 .work_music_ds{
     width: 59%;
@@ -364,7 +352,7 @@ header ul li a:hover {
 	text-align: right;
 	position: relative;
     top: 50%;
-    transform: translateY(-25%);
+    /*transform: translateY(-25%);*/
 }
 /*=================== about =================*/
 .hengtiao{
